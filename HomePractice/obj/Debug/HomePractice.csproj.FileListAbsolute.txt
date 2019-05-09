@@ -1,0 +1,7 @@
+C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\bin\Debug\HomePractice.exe.config
+C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\bin\Debug\HomePractice.exe
+C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\bin\Debug\HomePractice.pdb
+C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\obj\Debug\HomePractice.csprojAssemblyReference.cache
+C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\obj\Debug\HomePractice.csproj.CoreCompileInputs.cache
+C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\obj\Debug\HomePractice.exe
+C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\obj\Debug\HomePractice.pdb
