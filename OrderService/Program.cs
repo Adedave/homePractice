@@ -32,7 +32,7 @@ namespace OrderService
         {
             Customer c = CustomerRegistration();
             Console.WriteLine();
-            Console.WriteLine("NOTIFICATION MESSAGE STARTS");
+            Console.WriteLine("NOTIFICATION ME.SSAGE STARTS");
             Console.WriteLine($"Send {notificationMsg} to {c.EmailAddress} of Customer {c.Fullname}");
             Console.WriteLine("NOTIFICATION MESSAGE ENDS");
         }
