@@ -5,3 +5,6 @@ C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\obj\Debug\Hom
 C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\obj\Debug\HomePractice.csproj.CoreCompileInputs.cache
 C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\obj\Debug\HomePractice.exe
 C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\obj\Debug\HomePractice.pdb
+C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\bin\Debug\UsableCalcFunctions.dll
+C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\bin\Debug\UsableCalcFunctions.pdb
+C:\Users\ONI David Adedoyin\source\repos\HomePractice\HomePractice\obj\Debug\HomePractice.csproj.CopyComplete
